@@ -16,11 +16,11 @@ Abaixo segue o mock da tela:
 
 ### Dicas
 
-Você deve implementar o teste de acordo com o mock, mas lembre-se que isto é apenas um mock e nós estamos aberto a novas ideias.
+Lembre-se que isto é apenas um mock e nós estamos aberto a novas ideias.
 
 Não é regra usar frameworks, mas caso queira, tente usar os mais novos.
 
-Lembre-se o design é muito importante mas o UX é mais.
+O design é muito importante, mas o UX é mais.
 
 Testes também fazem a diferença.
 
