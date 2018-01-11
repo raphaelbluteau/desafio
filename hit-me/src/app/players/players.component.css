@@ -1,0 +1,15 @@
+.player-header-image#player-0 {
+  background-image: url('assets/ryu.png');
+}
+
+.player-header-image#player-1 {
+  background-image: url('assets/ken.png');
+}
+
+.player-header-image {
+  background-size: cover;
+}
+
+#reset-button {
+  margin-top: 15px;
+}

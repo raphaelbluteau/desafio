@@ -1,3 +1,11 @@
+### Para testar o game:
+
+`cd hit-me`
+
+`npm install`
+
+`ng serve --open`
+
 # TESTE FRONTEND S2IT
 
 Você deve implementar um jogo, onde o jogador que ficar com 0% de vida perde.
